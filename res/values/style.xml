@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AlertDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/animation_activity_in</item>
+        <item name="android:windowExitAnimation">@anim/animation_activity_out</item>
+    </style>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
